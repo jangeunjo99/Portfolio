@@ -56,9 +56,12 @@
 <br/>
 <br/>
 <br/>
+
 ## Project Detail 
 ### 2023
 |기간|프로젝트 명|링크|
 |---|----|---|
-|2023.03 - <br> 진행중| 대용량 정형 데이터에 대한 MapReduce 기반 분산 가명 처리 시스템 개발 ||
-||||
+|2023.03 - <br> 진행중| 대용량 정형 데이터에 대한 MapReduce 기반 분산 가명 처리 시스템 개발 |<a href="https://github.com/jangeunjo99/MapReduce"> MapReduce </a>|
+|2023.03 - <br> 진행중| 토픽모델링을 통한 Nature-Based Solutions(NbS) 연구 동향 분석 |<a href="https://github.com/jangeunjo99/TopicModeling"> TopicModeling </a>|
+|2023.03 - <br> 진행중| YOLOv5 기반 효과적인 전기 자전거 인식 방법 |<a href="https://github.com/jangeunjo99/Kickgoing"> Kickgoing </a>|
+
