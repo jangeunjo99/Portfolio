@@ -1,18 +1,63 @@
-### Data Scientist, Data Analyst
+# 🐻‍❄️ Portfolio of Eunjo  
 
 > 꼼꼼한 분석가
 
 > 무엇이 문제인지 파고드는 분석가
 
+<br/>
+
 
 ## 목차
-1. Publications
-2. Project Overview
-3. Project Detail
-4. Other Experiments
+1. Introduction
+   1.1 Profile
+   1.2 Education
+   1.3 Experiences
+2. Publications
+3. My Projects
+
+<br/>
+<br/>
+<br/>
+
+## 1. Introduction
+### 1.1 Profile  
+이름 : 장은조  
+생년월일 : 1999/11/26  
+연락처 : 010-8762-9770  
+Email : wkddmswh99@sookmyung.ac.kr
+Github: https://github.com/jangeunjo99  
+<br/>
+<br/>
+
+### 1.2 Education  
+
+- 2015.03~2018.02 수지고등학교
+- 2018.03~2022.08 숙명여자대학교 통계학과 학사 *졸업*
+  - 전체 평균 평점 : 4.02 / 4.5
+  - 전공 평균 평점 : 4.12 / 4.5   
+- 2022.09~2024.08 숙명여자대학교 컴퓨터과학과 석사 *재학중*
+  - 전체 평균 평점 : 4.44 / 4.5
+ <br/>
+<br/>
+
+### 1.3 Experiences
+
+|기간|경험|설명|
+|---|----|---|
+|2023.03-2024.06|프로그래밍개론 실습조교|매주 c언어 실습 및 Q&A|
+|2023.03-06, 2024.03-06|웹시스템설계 실습조교|매주 HTML Web 실습 및 Q&A|  
+|2023.03-2023.06|데이터마이닝 실습조교|데이터 분석 과제 및 머신러닝 수업 Q&A|
+|2022.08-2022.10|[한국지능정보사회진흥원]데이터크리에이어캠프 멘토|AI 프로젝트 멘토|  
+|2023.07-12|[LG CNS] AI지니어스 멘토|청소년 대상 교육 프로그램 멘토|  
+|2022.03-2022.08|숙명여자대학교 데이터지능연구실 학부 인턴||  
+|2020.03-2022.07|통계 과목 과외|통계 수학, 기초통계학, 수리통계학, 분산분석, 회귀분석|  
+|2021.12.31| 빅데이터분석기사 취득||  
+|2019.08-2020.08|빅데이터 연합동아리(Bitamin) 수료||
+|2018.03-2019.12|숙명여자대학교 통계학과 학생회||
 
 
-## 1. Publications   
+
+## 2. Publications   
 **<code style="background-color : #0366d6">Domestic Conferences</code>**
 - *Dong-heon Kwak, Hye-yoon Seo, Eunjo Jang, Chaehyeon Kim, Sara Yu, Ki Yong Lee, and Eun-ho Choi, "Suggestions Through Analysis of Nature-based Solution Research Trends," **2022 First Half Conference of The Korean Society of Climate Change Research**, June 2022. **(Best Poster Paper Award)***
 - *Eunjo Jang, Ki Yong Lee, "A Gradient Boosting Method for Graph Neural Networks," **Annual Conference of KIPS 2022 (ACK 2022)**, November 2022. **(Korea Federation of Information Technology Societies President's Award)***
@@ -38,30 +83,23 @@
 <br/>
 <br/>
 
-## Project Overview 
+## 3. My Projects
 * KSC, 한국기후변화학회 : Domestic Conferences
 * Atmosphere : International Journals
 
-|기간|프로젝트 명|성과&실적|
-|---|----|---|
-|2023.03 - <br> 진행중|대용량 정형 데이터에 대한 MapReduce 기반 분산 가명 처리 시스템 개발|- 2TB 개인정보 가상 데이터 8가지 기능 1시간 이내 수행 성공 (*과제 목표 달성) <br> - **[S/W 저작권 등록]** 대용량 파일에 대한 MapReduce 기반 분산 가명처리 시스템 <br> - **[KSC2023]** 대규모 정형 데이터를 위한 맵리듀스 기반 고속 가명 처리 시스템 개발  |
-|2022.06 - <br> 2022.11|YOLOv5 기반 효과적인 전기 자전거 인식 방법|- **[KSC2022]** YOLOv5 기반 효과적인 전기 자전거 인식 방법|
-|2022.06 - <br> 2022.11|토픽모델링을 통한 NBS(Nature-Based Solution) 연구 동향 분석|- **[한국기후변화학회2022]** 자연기반해법 연구동향 분석을 통한 제언 (*최우수 포스터발표 논문상*) <br> - **[Atmosphere]** Analysis of Nature-Based Solutions Research Trends and Integrated Means of Implementation in Climate Change|
-|2022.06 - <br> 2022.11|(LH) 광양시 재활용품 자동수거기 설치를 위한 최적위치 선정|- **장려상**|
-|2022.06 - <br> 2022.11|(LH) 대전시 교통사고 위험 지역 도출|- **입선상**|
-|2022.06 - <br> 2022.11|(NH) Y&Z세대 우수고객 불씨 발굴을 위한 FARM 분석 기반의 서비스 제안|- **입선상**|
-|2022.06 - <br> 2022.11|(NIA) 2020 데이터 크리에이터 캠프|- **우수상**|
+|기간|프로젝트 명|성과&실적|링크|
+|---|----|---|---|
+|2023.03 - <br> 진행중|대용량 정형 데이터에 대한 MapReduce 기반 분산 가명 처리 시스템 개발|- 2TB 개인정보 가상 데이터 8가지 기능 1시간 이내 수행 성공 (*과제 목표 달성) <br> - **[S/W 저작권 등록]** 대용량 파일에 대한 MapReduce 기반 분산 가명처리 시스템 <br> - **[KSC2023]** 대규모 정형 데이터를 위한 맵리듀스 기반 고속 가명 처리 시스템 개발  |<a href="https://github.com/jangeunjo99/MapReduce"> MapReduce </a>|
+|2022.06 - <br> 2022.11|YOLOv5 기반 효과적인 전기 자전거 인식 방법|- **[KSC2022]** YOLOv5 기반 효과적인 전기 자전거 인식 방법|<a href="https://github.com/jangeunjo99/Kickgoing"> Kickgoing </a>|
+|2022.06 - <br> 2022.11|토픽모델링을 통한 NBS(Nature-Based Solution) 연구 동향 분석|- **[한국기후변화학회2022]** 자연기반해법 연구동향 분석을 통한 제언 (*최우수 포스터발표 논문상*) <br> - **[Atmosphere]** Analysis of Nature-Based Solutions Research Trends and Integrated Means of Implementation in Climate Change|<a href="https://github.com/jangeunjo99/TopicModeling"> TopicModeling </a>|
+|2022.06 - <br> 2022.11|(LH) 광양시 재활용품 자동수거기 설치를 위한 최적위치 선정|- **장려상**||
+|2022.06 - <br> 2022.11|(LH) 대전시 교통사고 위험 지역 도출|- **입선상**||
+|2022.06 - <br> 2022.11|(NH) Y&Z세대 우수고객 불씨 발굴을 위한 FARM 분석 기반의 서비스 제안|- **입선상**||
+|2022.06 - <br> 2022.11|(NIA) 2020 데이터 크리에이터 캠프|- **우수상**||
 
 <br/>
 <br/>
 <br/>
 <br/>
-
-## Project Detail 
-### 2023
-|기간|프로젝트 명|링크|
-|---|----|---|
-|2023.03 - <br> 진행중| 대용량 정형 데이터에 대한 MapReduce 기반 분산 가명 처리 시스템 개발 |<a href="https://github.com/jangeunjo99/MapReduce"> MapReduce </a>|
-|2023.03 - <br> 진행중| 토픽모델링을 통한 Nature-Based Solutions(NbS) 연구 동향 분석 |<a href="https://github.com/jangeunjo99/TopicModeling"> TopicModeling </a>|
-|2023.03 - <br> 진행중| YOLOv5 기반 효과적인 전기 자전거 인식 방법 |<a href="https://github.com/jangeunjo99/Kickgoing"> Kickgoing </a>|
+\
 
