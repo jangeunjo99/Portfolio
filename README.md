@@ -7,7 +7,7 @@
 <br/>
 
 
-## 목차
+## 🐥 목차
 1. Introduction  
    1.1 Profile  
    1.2 Education  
@@ -21,11 +21,12 @@
 
 ## 1. Introduction
 ### 1.1 Profile  
-이름 : 장은조  
-생년월일 : 1999/11/26  
-연락처 : 010-8762-9770  
-Email : wkddmswh99@sookmyung.ac.kr
-Github: https://github.com/jangeunjo99  
+- 이름 : 장은조  
+- 생년월일 : 1999/11/26  
+- 연락처 : 010-8762-9770  
+- Email : wkddmswh99@sookmyung.ac.kr  
+- Github: https://github.com/jangeunjo99
+- Tistory: https://wkddmswh99.tistory.com/
 <br/>
 <br/>
 
@@ -55,6 +56,9 @@ Github: https://github.com/jangeunjo99
 |2018.03-2019.12|숙명여자대학교 통계학과 학생회||
 
 
+<br/>
+<br/>
+<br/>
 
 ## 2. Publications   
 **<code style="background-color : #0366d6">Domestic Conferences</code>**
@@ -88,7 +92,7 @@ Github: https://github.com/jangeunjo99
 
 |기간|프로젝트 명|성과&실적|링크|
 |---|----|---|---|
-|2023.03 - <br> 진행중|대용량 정형 데이터에 대한 MapReduce 기반 분산 가명 처리 시스템 개발|- 2TB 개인정보 가상 데이터 8가지 기능 1시간 이내 수행 성공 (*과제 목표 달성) <br> - **[S/W 저작권 등록]** 대용량 파일에 대한 MapReduce 기반 분산 가명처리 시스템 <br> - **[KSC2023]** 대규모 정형 데이터를 위한 맵리듀스 기반 고속 가명 처리 시스템 개발  |<a href="https://github.com/jangeunjo99/MapReduce"> MapReduce </a>|
+|2023.03 - <br> 진행중|대용량 정형 데이터에 대한 MapReduce 기반 분산 가명 처리 시스템 개발|- 2TB 개인정보 가상 데이터 8가지 기능 1시간 이내 수행 성공 **(과제 목표 달성)** <br> - **[S/W 저작권 등록]** 대용량 파일에 대한 MapReduce 기반 분산 가명처리 시스템 <br> - **[KSC2023]** 대규모 정형 데이터를 위한 맵리듀스 기반 고속 가명 처리 시스템 개발  |<a href="https://github.com/jangeunjo99/MapReduce"> MapReduce </a>|
 |2022.06 - <br> 2022.11|YOLOv5 기반 효과적인 전기 자전거 인식 방법|- **[KSC2022]** YOLOv5 기반 효과적인 전기 자전거 인식 방법|<a href="https://github.com/jangeunjo99/Kickgoing"> Kickgoing </a>|
 |2022.06 - <br> 2022.11|토픽모델링을 통한 NBS(Nature-Based Solution) 연구 동향 분석|- **[한국기후변화학회2022]** 자연기반해법 연구동향 분석을 통한 제언 (*최우수 포스터발표 논문상*) <br> - **[Atmosphere]** Analysis of Nature-Based Solutions Research Trends and Integrated Means of Implementation in Climate Change|<a href="https://github.com/jangeunjo99/TopicModeling"> TopicModeling </a>|
 |2022.06 - <br> 2022.11|(LH) 광양시 재활용품 자동수거기 설치를 위한 최적위치 선정|- **장려상**|<a href="https://github.com/jangeunjo99/Gwangyang"> 광양시 분석 </a>|
