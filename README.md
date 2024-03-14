@@ -8,12 +8,12 @@
 
 
 ## 목차
-1. Introduction
-   1.1 Profile
-   1.2 Education
-   1.3 Experiences
-2. Publications
-3. My Projects
+1. Introduction  
+   1.1 Profile  
+   1.2 Education  
+   1.3 Experiences  
+2. Publications  
+3. My Projects  
 
 <br/>
 <br/>
