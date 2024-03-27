@@ -73,15 +73,15 @@
 - *SoJung Kim, Eunjo Jang, Ki Yong Lee, "Graph neural network ensemble model using node sampling-based gradient boosting," **Korea Computer Congress 2023 (KCC2023)**, June 2023.*
 - *Sara Yu, Eunjo Jang, Ki Yong Lee, "Development of a High-Speed Pseudonym Data Processing System Based on MapReduce for Large-Scale Structured Data," **Korea Software Congress 2023 (KSC 2023)**, December 2023.*
 
-<code style="background-color : #fff5b1">International Conferences</code>  
+**<code style="background-color : #fff5b1">International Conferences</code>**
 - *Eunjo Jang, Yeonju Song, Ki Yong Lee "Cross Attention Integration: Enhancing Session-based Recommendations with Item-Category Interactions," **IEEE International Conference on Big Data and Smart Computing (BigComp)**, Feburary, 2024.*
 - *Hyesoo Shin, Eunjo Jang, SoJung Kim, and Ki Yong Lee, "SDCG: Silhouette-based Deep Clustering with GNN for Improved Graph Node Clustering," The 21st **IEEE/ACIS International Conference on Software Engineering Research, Management and Applications (SERA 2023)**, May, 2023.*
 
-<code style="background-color : #fff5b1">International Journals</code>  
+**<code style="background-color : #fff5b1">International Journals</code>**  
 - *Eunjo Jang, Ki Yong Lee, "GBGNN: Gradient Boosted Graph Neural Networks," Journal of Information Processing Systems, (accepted)*
 - *Eunho Choi, Raehyun Kim, Jeongyeon Chae, A-Ram Yang, Eunjo Jang, and Ki Yong Lee, "Analysis of Nature-Based Solutions Research Trends and Integrated Means of Implementation in Climate Change," Atmosphere, vol. 14, no. 12, 1775, November 2023.*
 
-<code style="background-color : #CCE5FF">patent</code>  
+**<code style="background-color : #CCE5FF">patent</code>**  
 - *(Application) Ki Yong Lee, Hyewon Ryu, Eunjo Jang, Chaehyeon Kim, "Method, apparatus and computer program for measuring a risk of personal information exposure for large amounts of data," Patent application no. 10-2022-0184478(KR), December 26, 2022.*
 
   
